@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-ai-agent-mesh",
+  "version": "2.5.0",
+  "description": "Autonomous AI multi-agent orchestration framework in TypeScript",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
